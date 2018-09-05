@@ -1,5 +1,4 @@
-# adobecampaign-request
-Javascript HTTP request for Adobe Campaign
+# Javascript HTTP request for Adobe Campaign
 
 # Usage
 
